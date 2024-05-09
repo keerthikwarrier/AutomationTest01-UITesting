@@ -8,7 +8,9 @@ I have written the code for Desktop version of Chrome,Firefox and Safari and for
 
 Video with the execution of UI Testing with screenshots and resolutions: 
 
-https://github.com/keerthikwarrier/DealsDray-AutomationTest01-UITesting/assets/13638900/52272767-bcb5-4cec-b29a-ac8301ac0cd2
+https://github.com/keerthikwarrier/DealsDray-AutomationTest01-UITesting/assets/13638900/956d8d5f-f6dd-4fad-a3cf-8309b8fe5b7f
+
+
 
 
 
